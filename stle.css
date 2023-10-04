@@ -1,0 +1,220 @@
+        .bir {
+            display: flex;
+            gap: 100px;
+        }
+
+
+        .ttt {
+            width: 200px;
+        }
+
+        .nnn {
+            margin-top: 0px;
+        }
+
+        .ikki {
+            margin-top: 200px;
+
+        }
+
+        .yyy {
+            display: flex;
+        }
+
+        .mmm {
+            margin-top: -50px;
+        }
+
+        .eee {
+            margin-left: 200px;
+        }
+
+        .body {
+            background-color: black;
+        }
+
+        .hammasi {
+            background-color: black;
+            height: 2000px;
+            margin: 60px;
+            margin-bottom: 500px;
+        }
+
+        h1 {
+            color: white;
+        }
+
+        p {
+            color: white;
+        }
+
+        button {
+            background-color: blueviolet;
+        }
+
+        .bbb {
+            margin-top: -500px;
+        }
+
+        /* 1 */
+        .uch {
+            margin-top: 400px;
+            width: 1000px;
+        }
+
+        .img {
+            margin-left: 100px;
+            width: 1000px;
+            height: 500px;
+        }
+
+
+
+        body {
+            position: relative;
+            height: 1px;
+          }
+      
+          body {
+            background: #eee;
+            font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            color: #000;
+            margin: 0;
+            padding: 0;
+          }
+      
+          swiper-container {
+            width: 300px;
+            height: 600px;
+          
+          }
+      
+          swiper-slide {
+            text-align: center;
+            font-size: 18px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+          }
+      
+          swiper-slide img {
+            display: block;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+          }
+          .icon{
+              width: 55px;
+              height: 55px;
+              margin-left: 200px;
+          }
+          footer{
+              margin-top: 50px;
+              margin-bottom: 500px;
+          }
+          .footer-2{
+              display: flex;
+              justify-content: space-between;
+          }
+          .iimg{
+              width: 1000px;
+          }
+          h5{
+              width: 1000px;
+              text-align: center;
+          }
+          .swiper-slide-2 {
+            margin-left: 1000px;
+            margin-right: 1000px;
+          }
+          .swiper {
+            width: 600px;
+            height: 300px;
+        }
+        .swiper {
+            width: 600px;
+            height: 300px;
+        }
+        .ppp{
+            width: 299px;
+            height: 56px;
+        }      
+        .hh3{
+            background-color: white;
+        }
+        body {
+            position: relative;
+            height: 100%;
+        }
+
+        body {
+            background: #eee;
+            font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            color: #000;
+            margin: 0;
+            padding: 0;
+        }
+
+        swiper-container {
+            width: 100%;
+            height: 100%;
+        }
+
+        swiper-slide {
+            text-align: center;
+            font-size: 18px;
+            background: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        swiper-slide img {
+            display: block;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .h11 {
+            width: 650px;
+            color: white;
+            font-size: 60px;
+            text-align: center;
+            margin-left: 200px;
+        }
+        
+        .clas {
+            width: 32px;
+            height: 32px;
+            margin-left: 80px;
+        }
+        
+        .vv {
+            color: white;
+            display: flex;
+            justify-content: center;
+        }
+        
+        .v {
+            color: rgba(255, 255, 255, 0.70);
+            width: 200px;
+            text-align: center;
+        }
+        
+        .swiper {
+            width: 600px;
+            height: 300px;
+        }
+        
+        .diiiiiv {
+            display: flex;
+            justify-content: center;
+        }
+        
+        .f {
+            color: rgba(255, 255, 255, 0.70);
+            width: 220px;
+            text-align: center;
+        }
